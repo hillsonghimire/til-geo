@@ -1,2 +1,2 @@
-# til
+# til-geo
 📝 Today I Learned
