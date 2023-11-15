@@ -25,7 +25,7 @@ WELCOME !
 - [](python/)
 
 ### Unix
-- [file/folder size and disk storage](unix\FileSize_DiskStorage.md)
+- [file/folder size and disk storage](unix/FileSize_DiskStorage.md)
 
 ---
 
