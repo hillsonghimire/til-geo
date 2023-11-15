@@ -9,6 +9,8 @@ WELCOME !
 * [AWS](#aws)
 * [BASH](#bash)
 * [GIT](#git)
+* [Python](#python)
+* [Unix](#unix)
 
 ---
 
@@ -18,6 +20,14 @@ WELCOME !
 
 ### GIT
 - [ssh-keygen on windows](git/ssh-keygen)
+
+### Python
+- [](python/)
+
+### Unix
+- [](unix/)
+
+---
 
 ## About
 
