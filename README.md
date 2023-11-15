@@ -13,7 +13,7 @@ WELCOME !
 
 ### AWS
 
-- [aws public data access](aws/public_data_download.md)
+- [aws s3 bucket: public data access](aws/s3_bucket_publicData.md)
 
 ## About
 
