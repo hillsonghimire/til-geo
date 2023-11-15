@@ -32,6 +32,7 @@ This is particularly important when copying very large repository.
 ```bash
 aws s3 sync --no-sign-request s3://maxar-opendata/events/ Nepal-Earthquake-Nov-2023/ /home/hillson-path/MaxarImageries/
 ```
+Note: the data integrity check is also done during the `sync` process [(stackoverflow)](https://serverfault.com/a/999393)
 
 ### This doesn't cover
 * Authentications to connect to the aws s3 bucket
