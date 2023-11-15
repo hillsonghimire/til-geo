@@ -1,13 +1,13 @@
 ## SSH github setup in Windows - SSH-KEYGEN
 
-On `LINUX` - SAMPLE TITLE
+For `Windows`
 ```cmd
 ssh-keygen -o -t rsa -C "mail@gmail.com"
 ```
 Saving it to default  `C:\Users\UserName/.ssh/id_rsa`
 ## Check the id_rsa.pub file
 
-```dir
+```cmd
 C:\Users\UserName\.ssh\> dir
 LastWriteTime      Name
 -------------      ----
