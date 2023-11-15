@@ -18,7 +18,7 @@ aws s3 ls --no-sign-request s3://maxar-opendata/ --recursive
 # note: '--no-sign-request' flag: to access data that doesn't require authentications
 ```
 
-## Clone the directory to local folder recursively
+## Clone the directory to local folder recursively (not preferred)
 
 ```bash
 aws s3 cp --no-sign-request s3://maxar-opendata/events/ Nepal-Earthquake-Nov-2023/ /home/hillson-path/MaxarImageries/ --recursive
