@@ -8,6 +8,7 @@ WELCOME !
 
 * [AWS](#aws)
 * [BASH](#bash)
+* [Copernicus](#copernicus)
 * [GIT](#git)
 * [Python](#python)
 * [Unix](#unix)
@@ -15,8 +16,12 @@ WELCOME !
 ---
 
 ### AWS
-
 - [aws s3 bucket: public data access](aws/s3_bucket_publicData.md)
+
+<!-- ### Bash -->
+
+### Copernicus
+- [s3cmd data download](copernicus\s3cmd_dataspace_downloader.md)
 
 ### GIT
 - [ssh-keygen on windows](git/ssh-keygen)
