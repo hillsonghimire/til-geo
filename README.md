@@ -26,6 +26,7 @@ WELCOME !
 
 ### Unix
 - [file/folder size and disk storage](unix/FileSize_DiskStorage.md)
+- [mount SMB network drive and upload from local](unix/smb_fileshare.md)
 
 ---
 
