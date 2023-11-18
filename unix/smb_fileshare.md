@@ -1,4 +1,4 @@
- 
+ ## Upload files from linux(ubuntu) to smb remote storage 
  
  #### Create credentials file
  ```bash
