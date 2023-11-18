@@ -3,7 +3,7 @@
 
 Use the following docker script
 ```bash
-$ docker run -d --name <containerName> -p <port_number>:5432 -e POSTGRES_DB=<db_name> -e POSTGRES_PASSWORD=v -e POSTGRES_USER=<userInPostgres> postgis/postgis:12-3.0
+$ docker run -d --name <containerName> -p <port_number>:5432 -e POSTGRES_DB=<db_name> -e POSTGRES_PASSWORD=<password> -e POSTGRES_USER=<userInPostgres> postgis/postgis:12-3.0
 ```
 
 ##### Replace the following from above command:
