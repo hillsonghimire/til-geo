@@ -26,6 +26,7 @@ WELCOME !
 
 ### Docker
 - [postgis setup, one liner](docker/postgresql-Initiate_createDb.md)
+- [pgadmin4 setup, configure](docker/docker-pgadmin4.md)
 
 ### GIT
 - [ssh-keygen on windows](git/ssh-keygen)
@@ -36,6 +37,26 @@ WELCOME !
 ### Unix
 - [file/folder size and disk storage](unix/FileSize_DiskStorage.md)
 - [mount SMB network drive and upload from local](unix/smb_fileshare.md)
+- [UFW configuration](unix/ufw.md)
+- [zip unzip command](unix/zip_unzip.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
