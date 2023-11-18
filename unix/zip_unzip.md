@@ -10,8 +10,8 @@ $ sudo apt install zip unzip
 zip -r zipFile.zip dir1/*
 ```
 
-#### List of JS Functions
+#### To Unzip
 
 ```bash
-zip -r zipFile.zip dir1/*
+unzip -d /destination/directory/ file.zip
 ```
