@@ -2,8 +2,8 @@
  
  #### Create credentials file
  ```bash
-$ touch ~/.credentials
-$ nano ~/.credentials
+touch ~/.credentials
+nano ~/.credentials
 
 # Add the following content to the fie and 
 username=<smbUser>
@@ -19,7 +19,7 @@ sudo chmod 600 ~/.credentials
 
 #### Make a directory to mount the SMB network drive
 ```bash 
-$ cd /mnt/smb_resource/
+cd /mnt/smb_resource/
 ```
 #### Mount the SMB network drive to the mountpoint created above
 
@@ -30,7 +30,7 @@ sudo mount -t cifs -o credentials=~/.credentials //203.159.00.00/datastore/ /mnt
 #### Finally, clone the directory using `rsync` command
 
 ```bash
-$ rsycn -avr --dry-run /source/ /mnt/smb_resource/
+rsycn -avr --dry-run /source/ /mnt/smb_resource/
 ```
 `a`: archive, to preserve symbolic links, special and device files, modification times, groups, owners and permissions. It is recommend to run this, and preserves almost everything
 `r`: recursive, during directory syncing

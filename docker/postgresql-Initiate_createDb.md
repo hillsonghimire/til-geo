@@ -3,7 +3,7 @@
 
 Use the following docker script
 ```bash
-$ docker run -d --name <containerName> -p <port_number>:5432 -e POSTGRES_DB=<db_name> -e POSTGRES_PASSWORD=<password> -e POSTGRES_USER=<userInPostgres> postgis/postgis:12-3.0
+docker run -d --name <containerName> -p <port_number>:5432 -e POSTGRES_DB=<db_name> -e POSTGRES_PASSWORD=<password> -e POSTGRES_USER=<userInPostgres> postgis/postgis:12-3.0
 ```
 
 ##### Replace the following from above command:
@@ -15,6 +15,6 @@ $ docker run -d --name <containerName> -p <port_number>:5432 -e POSTGRES_DB=<db_
 
 ##### Example:   
 ```bash
-$ docker run -d --name arena-db -p 5444:5432 -e POSTGRES_DB=arena -e POSTGRES_PASSWORD=arena -e POSTGRES_USER=arena postgis/postgis:12-3.0
+docker run -d --name arena-db -p 5444:5432 -e POSTGRES_DB=arena -e POSTGRES_PASSWORD=arena -e POSTGRES_USER=arena postgis/postgis:12-3.0
 ``` 
 
