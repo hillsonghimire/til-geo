@@ -39,6 +39,7 @@ WELCOME !
 - [mount SMB network drive and upload from local](unix/smb_fileshare.md)
 - [UFW configuration](unix/ufw.md)
 - [zip unzip command](unix/zip_unzip.md)
+- [VIM](unix/vim.md)
 
 
 
