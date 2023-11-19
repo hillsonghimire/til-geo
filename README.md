@@ -29,10 +29,10 @@ WELCOME !
 - [pgadmin4 setup, configure](docker/docker-pgadmin4.md)
 
 ### GIT
-- [ssh-keygen on windows](git/ssh-keygen)
+- [ssh-keygen on windows](git/ssh-keygen.md)
 
 ### Python
-- [](python/)
+- [ipyleaflet](python/ipyleaflet.ipynb)
 
 ### Unix
 - [file/folder size and disk storage](unix/FileSize_DiskStorage.md)
