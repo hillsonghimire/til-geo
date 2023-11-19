@@ -2,7 +2,7 @@
 
 #### Install
 ```bash
-$ sudo apt install zip unzip
+sudo apt install zip unzip
 ```
 
 #### To Zip
