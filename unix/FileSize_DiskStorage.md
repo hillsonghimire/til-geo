@@ -22,10 +22,13 @@ df -lH |  sort -h
 df -H --output=size,used,avail
 ```
 
-## At any directory, to check the file sizes
+## At any directory, to check the file sizes (most useful**)
 `-h` flag is used to display resut in human readable format, and --max-depth
 ```bash
 du -h --max-depth=1
+
+# Additionally the location of the trash file in linux
+>> /home/<user>/.local/share/Trash
 ```
 
 
