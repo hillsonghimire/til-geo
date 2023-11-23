@@ -33,6 +33,7 @@ WELCOME !
 
 ### Python
 - [ipyleaflet](python/ipyleaflet.ipynb)
+- [mamba starter](python/mambaStater.md)
 
 ### Unix
 - [file/folder size and disk storage](unix/FileSize_DiskStorage.md)
