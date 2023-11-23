@@ -8,10 +8,13 @@ mamba create -n <nameofmyenv> <list of packages>
 # importing from the environment `.yaml` file
 mamba env create --file ENV_NAME.yaml
 
+# list environments
+mamba env list
+
 # activate
 mamba activate <nameofmyenv>
 
-# install padkage
+# install package
 mamba install -n <nameofmyenv> PACKAGE
 mamba update -n <nameofmyenv> --all
 
