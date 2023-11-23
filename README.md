@@ -34,6 +34,7 @@ WELCOME !
 ### Python
 - [ipyleaflet](python/ipyleaflet.ipynb)
 - [mamba starter](python/mambaStater.md)
+- [No module named 'osgeo'](python/osgeo-mamba)
 
 ### Unix
 - [file/folder size and disk storage](unix/FileSize_DiskStorage.md)
