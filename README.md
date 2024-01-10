@@ -12,6 +12,7 @@ WELCOME !
 * [Docker](#docker)
 * [GIT](#git)
 * [Python](#python)
+* [Satellite](#satellite)
 * [Unix](#unix)
 
 ---
@@ -19,7 +20,8 @@ WELCOME !
 ### AWS
 - [aws s3 bucket: public data access](aws/s3_bucket_publicData.md)
 
-<!-- ### Bash -->
+### Bash
+- [SCP file transfer](bash/scp.md)
 
 ### Copernicus
 - [s3cmd data download](copernicus/s3cmd_dataspace_downloader.md)
@@ -35,6 +37,9 @@ WELCOME !
 - [ipyleaflet](python/ipyleaflet.ipynb)
 - [mamba starter](python/mambaStater.md)
 - [No module named 'osgeo'](python/osgeo-mamba.md)
+
+### Satellite
+- [Public datasets info](satellite/readme.md)
 
 ### Unix
 - [file/folder size and disk storage](unix/FileSize_DiskStorage.md)
