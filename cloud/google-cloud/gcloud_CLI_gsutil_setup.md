@@ -23,4 +23,10 @@ tar -xf google-cloud-cli-464.0.0-linux-x86_64.tar.gz
 ```
 After this step, a link will appear that will redirect to authenticate, and after that step you'll be prompted to select the google cloud project form the list.
 
+#### To access the `google cloud storage bucket`, we need to install `gsutil`, it comes bundled with `google-cloud-cli`
+```bash
+sudo apt-get update && sudo apt-get install google-cloud-cli
+# For details: https://cloud.google.com/storage/docs/gsutil_install#deb
+```
+
 ## happppy in cloud !!!! :)

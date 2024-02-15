@@ -29,7 +29,7 @@ WELCOME !
 - #### AWS
     - [aws s3 bucket: public data access](cloud/aws/s3_bucket_publicData.md)
 - #### Google Cloud
-    - [gcloud CLI setup: linux](cloud/google-cloud/gcloud_CLI_setup.md)
+    - [gcloud CLI and `gsutil` setup: linux](cloud/google-cloud/gcloud_CLI_gsutil_setup.md)
 
 
 ### Copernicus
