@@ -10,6 +10,7 @@ WELCOME !
 * [BASH](#bash)
 * [Copernicus](#copernicus)
 * [Docker](#docker)
+* [Earth Engine](#google-earth-engine)
 * [GIT](#git)
 * [Python](#python)
 * [Satellite](#satellite)
@@ -30,6 +31,9 @@ WELCOME !
 - [postgis setup, one liner](docker/postgresql-Initiate_createDb.md)
 - [pgadmin4 setup, configure](docker/docker-pgadmin4.md)
 
+### Google Earth Engine
+- [postgis setup, one liner](google-earth-engine/python_cli_setup.md)
+
 ### GIT
 - [ssh-keygen on windows](git/ssh-keygen.md)
 
@@ -47,16 +51,6 @@ WELCOME !
 - [UFW configuration](unix/ufw.md)
 - [zip unzip command](unix/zip_unzip.md)
 - [VIM](unix/vim.md)
-
-
-
-
-
-
-
-
-
-
 
 
 
