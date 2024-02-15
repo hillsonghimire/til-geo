@@ -8,6 +8,7 @@ WELCOME !
 
 * [AWS](#aws)
 * [BASH](#bash)
+* [Cloud](#cloud)
 * [Copernicus](#copernicus)
 * [Docker](#docker)
 * [Earth Engine](#google-earth-engine)
@@ -19,10 +20,17 @@ WELCOME !
 ---
 
 ### AWS
-- [aws s3 bucket: public data access](aws/s3_bucket_publicData.md)
+
 
 ### Bash
 - [SCP file transfer](bash/scp.md)
+
+### Cloud
+- #### AWS
+    - [aws s3 bucket: public data access](cloud/aws/s3_bucket_publicData.md)
+- #### Google Cloud
+    - [gcloud CLI setup: linux](cloud/google-cloud/gcloud_CLI_setup.md)
+
 
 ### Copernicus
 - [s3cmd data download](copernicus/s3cmd_dataspace_downloader.md)
