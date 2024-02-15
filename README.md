@@ -32,7 +32,7 @@ WELCOME !
 - [pgadmin4 setup, configure](docker/docker-pgadmin4.md)
 
 ### Google Earth Engine
-- [postgis setup, one liner](google-earth-engine/python_cli_setup.md)
+- [GEE Python/CLI installation and setup](google-earth-engine/python_cli_setup.md)
 
 ### GIT
 - [ssh-keygen on windows](git/ssh-keygen.md)
