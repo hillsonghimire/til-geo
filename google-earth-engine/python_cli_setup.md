@@ -19,3 +19,23 @@ earthengine authenticate
 ```bash
 ls $HOME/.config/earthengine/credentials
 ```
+
+#### To check if the credentials are working or not
+```bash
+ee.Authenticate()
+ee.Initialize(project='my-project')
+```
+
+#### Verify by printing metadata for a DEM dataset
+print(ee.Image('USGS/SRTMGL1_003').getInfo())
+
+
+#### Updating API
+```bash
+mamba update -c conda-forge earthengine-api
+```
+
+Note: After seting up the python API for google earth engine, `earthengine` command on bash will not give any error
+
+
+Reference: https://developers.google.com/earth-engine/guides/python_install-conda
