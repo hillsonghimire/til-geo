@@ -19,9 +19,6 @@ WELCOME !
 
 ---
 
-### AWS
-
-
 ### Bash
 - [SCP file transfer](bash/scp.md)
 
