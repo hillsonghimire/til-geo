@@ -19,6 +19,7 @@ WELCOME !
 
 ---
 
+
 ### Bash
 - [SCP file transfer](bash/scp.md)
 
@@ -52,6 +53,7 @@ WELCOME !
 
 ### Unix
 - [file/folder size and disk storage](unix/FileSize_DiskStorage.md)
+- [download parallelly many urls](unix/download_multiple.md)
 - [mount SMB network drive and upload from local](unix/smb_fileshare.md)
 - [UFW configuration](unix/ufw.md)
 - [zip unzip command](unix/zip_unzip.md)
