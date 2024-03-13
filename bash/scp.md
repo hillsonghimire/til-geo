@@ -8,6 +8,7 @@ scp ./transferring_file_name  remoteuser@remotehost:/remote/directory
 
 
 #### Securely copy a file from remote machine to our local machine.
+(Note: use `scp -r` to copy entire directory and its content recursively.)
 ```bash
 scp user@remotehost:/home/user/remote_file_name ./local_folder
 ```
