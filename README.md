@@ -39,6 +39,7 @@ WELCOME !
 
 ### Google Earth Engine
 - [GEE Python/CLI installation and setup](google-earth-engine/python_cli_setup.md)
+- [Filter/Indexing ImageCollection](google-earth-engine/filt_ImageCollection.md)
 
 ### GIT
 - [ssh-keygen on windows](git/ssh-keygen.md)
