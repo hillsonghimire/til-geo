@@ -28,6 +28,10 @@ WELCOME !
 ### Cloud
 - #### AWS
     - [aws s3 bucket: public data access](cloud/aws/s3_bucket_publicData.md)
+
+- #### General
+    - [edit windows ssh `config` (`ServerAliveInterval`)](cloud/general/ssh_config.md)
+
 - #### Google Cloud
     - [gcloud CLI and `gsutil` setup: linux](cloud/google-cloud/gcloud_CLI_gsutil_setup.md)
 
