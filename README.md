@@ -52,6 +52,10 @@ WELCOME !
 ### GIT
 - [ssh-keygen on windows](git/ssh-keygen(win).md)
 
+### High Performance Computer
+- [hpc](hpc/mamba-setup.md)
+- [tmux-slurm](hpc/tmux_and_slurm_instructions.md)
+
 ### Python
 - [ipyleaflet](python/ipyleaflet.ipynb)
 - [mamba starter](python/mambaStater.md)
