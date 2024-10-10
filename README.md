@@ -13,7 +13,7 @@ WELCOME !
 * [Docker](#docker)
 * [Earth Engine](#google-earth-engine)
 * [GIT](#git)
-* [High Performance Computing](#hpc)
+* [High Performance Computing](#high-performance-computing)
 * [Python](#python)
 * [Satellite](#satellite)
 * [Unix](#unix)
@@ -53,8 +53,8 @@ WELCOME !
 - [ssh-keygen on windows](git/ssh-keygen(win).md)
 
 ### High Performance Computing
-- [hpc](hpc/mamba-setup.md)
-- [tmux-slurm](hpc/tmux_and_slurm_instructions.md)
+- [hpc](high-performance-computing/mamba-setup.md)
+- [tmux-slurm](high-performance-computing/tmux_and_slurm_instructions.md)
 
 ### Python
 - [ipyleaflet](python/ipyleaflet.ipynb)
