@@ -3,7 +3,7 @@
 
 ### 1. Install Miniforge
 - Get it from: [conda-forge/miniforge: A conda-forge distribution.](https://github.com/conda-forge/miniforge)
-    - Download installation files for Miniforge on Linux:
+    - Download installation files for Miniforge on Linux(the `Releases` part of the github contains the miniforge installer download link. https://github.com/conda-forge/miniforge/releases):
       ```bash
       chmod +x filename.sh
       ./filename.sh
