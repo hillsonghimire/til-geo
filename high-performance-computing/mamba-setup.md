@@ -4,6 +4,7 @@
 ### 1. Install Miniforge
 - Get it from: [conda-forge/miniforge: A conda-forge distribution.](https://github.com/conda-forge/miniforge)
     - Download installation files for Miniforge on Linux(the `Releases` part of the github contains the miniforge installer download link. https://github.com/conda-forge/miniforge/releases):
+    - Use `wget` to download suitable version, then,
       ```bash
       chmod +x filename.sh
       ./filename.sh
@@ -12,6 +13,8 @@
       ```bash
       mamba update --all
       ```
+
+Note: To check CPU architecture: `uname -m` and to check linux distribution: `lsb_release -a`. It might be need to figure out CPU architecture before figuring out which miniforge installer to download.
       
 ### 2. Mamba Location
 - Mamba is located at:
@@ -21,9 +24,19 @@
 
 ### 3. Create a Mamba Environment with PyTorch & JupyterLab
 - Set up the environment:
+  <del>
   ```bash
-  mamba create -n hghimire pytorch torchvision torchaudio pytorch-cuda=11.8 jupyterlab -c pytorch -c nvidia
+   mamba create -n hghimire pytorch torchvision torchaudio pytorch-cuda=11.8 jupyterlab -c pytorch -c nvidia 
   ```
+</del>
+
+- NOTE THAT THE `CONDA ` PYTORCH IS DEPRECIATED, SO INSTEAD OF THIS JUST CREATE NEW MAMBA ENVIRONMENT WITH PYTHON, AND LATER INSTALL WITH PIP.
+
+
+  ```bash
+    mamba create -n hghimire
+  ```
+
   Replace `hghimire` with mamba env name
 - Follow the updated guidelines from the official sources:
   [Start Locally | PyTorch](https://pytorch.org/get-started/locally/)
