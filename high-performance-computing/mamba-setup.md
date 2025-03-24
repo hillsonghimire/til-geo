@@ -36,7 +36,7 @@ Note: To check CPU architecture: `uname -m` and to check linux distribution: `ls
   ```bash
     mamba create -n hghimire
   ```
-
+For blank name in conda environment, we can use clone functionality to clone and rename it: follow -> https://stackoverflow.com/a/57547260/8118238
   Replace `hghimire` with mamba env name
 - Follow the updated guidelines from the official sources:
   [Start Locally | PyTorch](https://pytorch.org/get-started/locally/)
